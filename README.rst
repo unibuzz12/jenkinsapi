@@ -179,6 +179,7 @@ Project Contributors
 * Victor Garcia (bravejolie@gmail.com)
 * Bradley Harris (bradley@ninelb.com)
 * Kyle Rockman (kyle.rockman@mac.com)
+* Matthew Eyman (mat.eyman0823@gmail.com)
 * Sascha Peilicke (saschpe@gmx.de)
 * David Johansen (david@makewhat.is)
 * Misha Behersky (bmwant@gmail.com)
